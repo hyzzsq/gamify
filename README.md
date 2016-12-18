@@ -1,3 +1,4 @@
 # gamify
-hello. this is my gamify.py project.
-Basically it is a fun project
+hello. 
+This is my gamify.py project.
+(A fun project)
